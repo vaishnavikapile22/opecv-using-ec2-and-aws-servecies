@@ -36,7 +36,7 @@ sudo apt-get install xvfb
 
 sudo yum install xorg-x11-server-Xvfb
 
-# Change ownership to ec2-user for the 'people' directory and its contents
+# Change ownership to ec2-user for the 'photo' directory and its contents
 
 sudo chown -R ec2-user:ec2-user /home/ec2-user/opencv/photo/
 
@@ -51,7 +51,7 @@ scp -i MUMBAI_KEY.pem ec2-user@3.109.133.244:/path/to/source/on/ec2/girl.png C:\
 
 # RUN FILE
 
-python detection.py -t people/group.webp
+python detection.py -t photo/group.webp
 
 
 Ec2 instance don't have direct permission for acess image so for that first we save image in form of.png file for image and .avi for vedio and then thse file transfer on local terminal i am using pycham and we easily see image
