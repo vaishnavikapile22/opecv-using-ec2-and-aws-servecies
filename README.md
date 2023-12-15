@@ -62,7 +62,8 @@ Ec2 instance don't have direct permission for acess image so for that first we s
 
 THESE IS A JACKMA IMAGE
 
-![result_with_eyes](https://github.com/vaishnavikapile22/opecv-using-ec2-and-aws-servecies/assets/149785862/aff1e788-e085-4297-8061-588fe70213            
+![result_with_eyes](https://github.com/vaishnavikapile22/opecv-using-ec2-and-aws-servecies/assets/149785862/1dd3816e-4038-4db5-a4d1-5ecd87cd7a75)
+            
 
 THESE IS A GROUP PHOTO
 
@@ -72,5 +73,5 @@ THESE IS A GROUP PHOTO
 
 THESE IS FOR VEDIO 
 
-https://github.com/vaishnavikapile22/opecv-using-ec2-and-aws-servecies/assets/149785862/9ac8cff7-b0a8-4b98-9952-a9863f03ad4f
+![output_vedio](https://github.com/vaishnavikapile22/opecv-using-ec2-and-aws-servecies/assets/149785862/246e15b2-9612-45c8-b502-67add9d2746f)
                  
