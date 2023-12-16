@@ -73,5 +73,5 @@ THESE IS A GROUP PHOTO
 
 THESE IS FOR VEDIO 
 
-![output_vedio](https://github.com/vaishnavikapile22/opecv-using-ec2-and-aws-servecies/assets/149785862/246e15b2-9612-45c8-b502-67add9d2746f)
+![man](https://github.com/vaishnavikapile22/opecv-using-ec2-and-aws-servecies/assets/149785862/237d5de4-ad43-49b0-a61c-d06322f90c7b)
                  
